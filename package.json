@@ -1,0 +1,11 @@
+{
+  "name": "Form",
+  "version": "1.0.0",
+  "description": "Automation Form",
+  "main": "index.js",
+  "author": "José Cristovão Cavalcanti Neto",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
