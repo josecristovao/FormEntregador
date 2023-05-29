@@ -39,16 +39,8 @@ describe('Cadastrar', function () {
             formPage.setNumero(form.numero)
             formPage.setComplemento(form.complemento)
             formPage.clickMetodoEntrega()
-            //formPage.uploadFoto(form.imageFile)
             formPage.submit()
             formPage.validarAusenciaCnh(form.ausenciaCNH)
-            //formPage.validarMensagem(form.mensagemValidacaoFinalUm,form.mensagemValidacaoFinalDois)
         })
-
-
-
-
-
-
     })
 })
